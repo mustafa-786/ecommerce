@@ -27,7 +27,7 @@ function increment(incdec,itemval) {
   if(textbox.value>=5)
   {
     
-    textbox.value=5
+    //textbox.value=5
     alert("maximum 5 quantity is allowed");
     textbox.style.backgroundColor = "red";
    
